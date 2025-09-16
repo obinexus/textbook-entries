@@ -1,0 +1,46 @@
+{
+  "nexus_search_config": {
+    "version": "1.0.0",
+    "model_type": "phenomorphic",
+    "search_engine": "nsc.exe",
+    "trie_structure": "avl_based",
+    "algorithms": ["bfs", "a_star", "topological"]
+  },
+  "document_types": {
+    "PhenoMarkdownDocument": {
+      "extensions": [".md"],
+      "weight": 1.0,
+      "cost_function": "content_length * semantic_density",
+      "indexable_fields": ["title", "content", "headers", "links"]
+    },
+    "PhenoPDFDocument": {
+      "extensions": [".pdf"],
+      "weight": 0.8,
+      "cost_function": "page_count * 0.1",
+      "indexable_fields": ["title", "content", "metadata"]
+    },
+    "PhenoImageDocument": {
+      "extensions": [".png", ".jpg", ".jpeg", ".webp"],
+      "weight": 0.6,
+      "cost_function": "file_size * 0.001",
+      "indexable_fields": ["filename", "alt_text", "metadata", "ocr_content"]
+    },
+    "PhenoCodeDocument": {
+      "extensions": [".js", ".rs", ".py", ".sh"],
+      "weight": 1.2,
+      "cost_function": "complexity_score * maintainability",
+      "indexable_fields": ["functions", "comments", "imports", "exports"]
+    }
+  },
+  "relationship_types": {
+    "bidirectional": ["references", "similar_to", "extends"],
+    "hierarchical": ["contains", "part_of", "derived_from"],
+    "temporal": ["before", "after", "concurrent"]
+  },
+  "search_weights": {
+    "exact_match": 10.0,
+    "fuzzy_match": 5.0,
+    "partial_match": 2.0,
+    "related_document": 1.0
+  }
+}

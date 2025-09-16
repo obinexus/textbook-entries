@@ -1,0 +1,41 @@
+39308f42e724743d:PhenoCodeDocument:1.2:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/nexus-search-refactor.sh
+376f6f7c6ecfff4f:PhenoGenericDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/backup_20250916_103336.tar.gz
+1b774edcb8618ec2:PhenoGenericDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/backup_20250916_103441.tar.gz
+e060d62aff768695:PhenoMarkdownDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/README.md
+ba9d91633fe88f59:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/OBINexus CIVIL Collaps Mitigation Textbook Entry - When Systems Fail, Build Your OWN .jpg
+c2a449f71c62d98a:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/CIVIL Collaspe By Nnamdi/CIVIL Collaspe By Nnamdi-1.png
+102a4833d603b8c3:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/CIVIL Collaspe By Nnamdi/CIVIL Collaspe By Nnamdi-2.png
+58ad44bbb8b12efd:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/ME_JUST_OBSERBING_MAILS.jpg
+8ba8e26fa5209e63:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/GENZPOSE_1109032025.jpg
+fc42b80c0092af20:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/Ellingham Hospital.jpg
+a2e22b7daed6645e:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/letter.webp
+3b5c402aa7252208:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/civil_collapse_02_08_2025.png
+c1bc04d777985179:PhenoImageDocument:0.6:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/images/obinexus_profilee.jpg
+34e20105ec7038a5:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/papers/Dimensional_Game_Theory_Varadic_Strategy_in_MultiDomain.pdf
+de13b80c3d81d2b1:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/papers/Dimensional_Game_Theory.pdf
+377b0b85f9b5e730:PhenoMarkdownDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/OBINexus Textbook - Civil Collapse Documentation.md
+d79763099499fa3d:PhenoMarkdownDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/Overview of Uche and Eze Nnamdi.md
+f06e542dd00e6ffd:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/527108bc-b618-42a9-8604-c807e5e63d18.pdf
+981927a9ba1b9dbc:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Nnamdi Okpala - Not homeless. Case ref_1083077..... - Copy.pdf
+7fd404facca7e568:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/data.pdf
+c275ec6342034b9d:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Homeless Review - Copy.pdf
+7fd2c76350fec3b9:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/PUT_SOME_MONEY_IN_MY_BANK_ACCOUNT.pdf
+4c9db22b4d77058f:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/527108bc-b618-42a9-8604-c807e5e63d18 - Copy.pdf
+893bec5ce15238fb:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Spirit of the Masquarde  - 19092025.pdf
+332722f010df5110:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/TODO.pdf
+e0c6a6b35e5cf04a:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/NO - Decision Letter  - Copy.pdf
+85fe34b90ed981f1:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/STOP PLAYING THURCOK WITH TAX PAYERS MONEY.pdf
+6ee72307a3555175:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/TODO(Milestones).pdf
+1aa39082648c3962:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Nnamdi Okpala - Not homeless. Case ref_1083077......pdf
+ea1f529a2d594de8:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/LOOK STOP WRITING STUPID EMAIL THE TARGET IS 117BILLION i need that 240 Million.pdf
+527b102a2ed2f154:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Appeal - Copy.pdf
+ac5fa664456d6425:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/EDMO_0425.pdf
+b2455dc30966e500:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Birth.pdf
+f62aafd28483ddf3:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Appeal.pdf
+c458928a33f052e2:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Homeless Review.pdf
+ba3afca9f88fef99:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/Legal Case Summary - Nnamdi Okpala v Thurrock Council - Copy.pdf
+ee71acebd03e93a9:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/archevied/NO - Decision Letter .pdf
+5735b2531d54a18e:PhenoMarkdownDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/bureaucratic_game_theory.md
+c2517c3d117738fb:PhenoMarkdownDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/README.md
+ac6657e8f451f326:PhenoMarkdownDocument:1.0:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/TODO.md
+3fa448a5ba625205:PhenoPDFDocument:0.8:1.0:/home/obinexus/obinexus/workspace/textbooks-entries/civil-collapse-mitigation-social-lawusit-v-thurrockcouncil/TRIBUNA_SEND.pdf

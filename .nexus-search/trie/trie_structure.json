@@ -1,0 +1,16 @@
+{
+  "trie_type": "avl_based",
+  "total_tokens": 3231,
+  "algorithms_supported": ["bfs", "a_star", "topological", "regex_match"],
+  "search_patterns": {
+    "exact_match": "\\b{token}\\b",
+    "fuzzy_match": ".*{token}.*",
+    "prefix_match": "{token}.*",
+    "wildcard_match": "*.{ext}"
+  },
+  "cost_functions": {
+    "bfs": "uniform_cost",
+    "a_star": "manhattan_distance + content_weight",
+    "topological": "relationship_depth * document_weight"
+  }
+}

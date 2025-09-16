@@ -1,0 +1,59 @@
+    *)
+# 10. Generate search interface script
+# 11. Generate final statistics and index
+# 12. Add git staging if inside repo
+# 1. Create backup before refactor
+    # 1. File path proximity (same directory)
+    # 2. Content similarity (shared tokens)
+# 2. Create nexus-search infrastructure
+# 3. Create phenomorphic document structure
+    # 3. Reference links (for markdown)
+# 4. Generate phenomorphic configuration
+# 5. Document discovery and classification function
+# 6. Extract searchable tokens function
+# 7. Build relationship graph
+# 8. Process all files
+# 9. Generate AVL Trie index structure
+# Author: Nnamdi Michael Okpala (Obi)
+# Basic search
+#!/bin/bash
+    # Build relationships
+    # Calculate weight and cost
+# Color output for better visibility
+# Combine all tokens from all documents
+                # Comments
+        # Content-based relationships (if this is markdown)
+                # Content words
+# Create document registry
+    # Create phenomorphic document metadata
+# Create trie structure metadata
+# Detect if we're already in textbooks-entries or need to go into it
+    # Determine document type
+        # Directory-based relationships
+    # Discover and classify
+## Document Types
+    # Extract components
+            # Extract filename components and any metadata
+            # Extract function names, comments, keywords
+            # Extract markdown content, headers, links
+            # Extract text from PDF if pdftotext is available
+    # Extract tokens
+# Find all files (excluding hidden and system files)
+    # Find related documents based on:
+# Fuzzy search
+    # Generate unique document ID
+                # Headers
+                # If exiftool is available, extract metadata
+## Index Statistics
+                # Links
+# Nexus Search Interface for OBINexus Textbook Entries
+# nexus-search-refactor.sh - Transform OBINexus textbook entries into phenomorphic searchable documents
+# OBINexus Nexus-Search Index
+# Pattern search
+## Phenomorphic Structure
+# Purpose: Create nexus-search compatible document structure with weighted relationships
+## Search Integration
+        # Search through relationships
+    # Update document metadata with token count
+## Usage
+# Usage: ./nexus-search.sh [query] [algorithm] [options]
