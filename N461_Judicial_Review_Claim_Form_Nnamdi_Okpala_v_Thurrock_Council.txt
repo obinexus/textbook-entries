@@ -1,0 +1,230 @@
+
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+ADMINISTRATIVE COURT
+
+CLAIM NO: [To be assigned]
+
+BETWEEN:
+
+NNAMDI MICHAEL OKPALA
+                              Claimant
+
+-and-
+
+THURROCK COUNCIL
+                              Defendant
+
+________________________________________
+
+JUDICIAL REVIEW CLAIM FORM (N461)
+
+________________________________________
+
+PART 1: DETAILS OF THE CLAIMANT
+
+Full name: Nnamdi Michael Okpala
+Date of birth: 19 May 2001
+Address for service: 4 Raymond Road, Ilford, IG2 7EA
+Email: okpalan@protonmail.com
+Telephone: 07482 290554
+
+The Claimant is a litigant in person.
+
+________________________________________
+
+PART 2: DETAILS OF THE DEFENDANT
+
+Name: Thurrock Council
+Address: Civic Offices, New Road, Grays, Essex RM17 6SL
+
+________________________________________
+
+PART 3: DETAILS OF THE DECISION TO BE JUDICIALLY REVIEWED
+
+(1) The decision to be challenged:
+
+The decision of Olubunmi Akueme, Housing Solutions Officer, Thurrock Council, dated 22 August 2025 (Reference: 1083077), entitled "No Homeless Application Taken – Housing Act 1996, Part VII Notification of Decision" (the "Decision").
+
+(2) The date of the decision:
+
+22 August 2025
+
+(3) The statutory provision under which the decision was made:
+
+Housing Act 1996, Part VII; Mental Capacity Act 2005, Sections 1-3; R v Tower Hamlets LBC ex p Ferdous Begum [1993] AC 509.
+
+(4) The identity of the decision-maker:
+
+Olubunmi Akueme, Housing Solutions Officer, Thurrock Council.
+
+________________________________________
+
+PART 4: THE CLAIMANT'S GROUNDS FOR SEEKING JUDICIAL REVIEW
+
+GROUND 1: ERROR OF LAW – MISAPPLICATION OF THE BEGUM TEST
+
+The Defendant erred in law in its application of the test established in R v Tower Hamlets LBC ex p Ferdous Begum [1993] AC 509. The Begum test requires that a person lacks "serious capacity" to understand and respond to an offer of accommodation before a local authority may refuse to accept a homelessness application. The Defendant's own decision letter acknowledges this high threshold yet fails to apply it.
+
+The Claimant:
+- Holds a Bachelor's degree from a UK university;
+- Is a member of British Mensa (high IQ society);
+- Secured admission to Imperial College London for Master's studies (commencing October 2025);
+- Successfully managed independent living in Kent from age 18;
+- Has designed and documented complex technical systems (publicly available on GitHub under the OBINexus organisation);
+- Has navigated university admissions, benefits systems (Universal Credit, PIP), and legal processes independently.
+
+These achievements demonstrate a level of intellectual functioning, abstract reasoning, and long-term planning that far exceeds the complexity of understanding a tenancy agreement. The Defendant's conclusion that the Claimant lacks "serious capacity" is legally unsustainable and constitutes a misapplication of the Begum test.
+
+GROUND 2: PROCEDURAL UNFAIRNESS – FAILURE TO CONDUCT A FORMAL CAPACITY ASSESSMENT
+
+The Defendant failed to conduct a formal, structured assessment of the Claimant's capacity under the Mental Capacity Act 2005. The decision relies on:
+- A 30-minute Microsoft Teams interview conducted on 5 August 2025;
+- Emails from the Claimant's support provider (Heathcare Services);
+- A general mental health assessment by Redbridge Access, Assessment & Brief Intervention Team dated 25 July 2025, which did not assess capacity for housing decisions.
+
+Section 3 of the Mental Capacity Act 2005 requires that a person be unable to (a) understand relevant information, (b) retain it, (c) use or weigh it, and (d) communicate the decision. The Defendant did not apply this structured test. No capacity assessment specific to housing decisions was conducted by a qualified professional. The decision is procedurally defective and unlawful.
+
+GROUND 3: FAILURE TO CONSIDER RELEVANT EVIDENCE
+
+The Defendant failed to consider overwhelming evidence of the Claimant's capacity, including:
+
+(a) Educational and intellectual achievements:
+- Bachelor's degree completion;
+- British Mensa membership;
+- Oxford programme attendance through Newham City Council;
+- Imperial College London Master's admission.
+
+(b) Independent living history:
+- Managed independent living in Kent from age 18;
+- Navigated benefits systems (Universal Credit £232/month, PIP £732/month);
+- Engaged with support services and legal processes.
+
+(c) Technical and creative work:
+- Design and documentation of complex digital infrastructure (OBINexus ecosystem);
+- Mastery of multiple programming languages (Rust, JavaScript, TypeScript, Python);
+- Creation of technical specifications for distributed systems with 7-layer architecture.
+
+This evidence directly demonstrates the Claimant's ability to understand complex information, retain it, weigh it, and communicate decisions — the core requirements of the Mental Capacity Act 2005. The Defendant's failure to consider this evidence constitutes a serious error of law and fact.
+
+GROUND 4: DISCRIMINATION – CONFLATION OF NEURODIVERGENCE WITH INCAPACITY
+
+The Defendant conflated the Claimant's neurodivergent conditions (Autism Spectrum Disorder, ADHD) and mental health diagnoses with a lack of capacity. The decision:
+- Cites the Claimant's Autism and "Unspecified Non-Organic Psychosis" as evidence of impairment;
+- Uses the Claimant's non-compliance with prescribed medication (Sodium Valproate, Aripiprazole) as evidence of lack of insight;
+- Characterises the Claimant's self-advocacy and insistence on independent living as evidence of incapacity;
+- Fails to make reasonable adjustments for the Claimant's neurodivergent communication style during the 5 August 2025 interview.
+
+This constitutes direct and indirect discrimination under the Equality Act 2010 and breaches the public sector equality duty under Section 149 of that Act. The Defendant has discriminated against the Claimant by treating his neurodivergence as incapacity rather than as a protected characteristic requiring reasonable adjustments.
+
+GROUND 5: IRRATIONALITY – A DECISION NO REASONABLE AUTHORITY COULD HAVE REACHED
+
+The decision is so unreasonable that no reasonable authority, properly directing itself on the law and the evidence, could have reached it. The Claimant:
+- Has demonstrated capacity in complex, high-stakes decisions (university admissions, technical system design, benefits management);
+- Has a documented history of independent living;
+- Was declared to have capacity by Redbridge Access, Assessment & Brief Intervention Team in July 2025 (albeit for a different decision);
+- Was subjected to a 30-minute video interview with no reasonable adjustments, no advocate present, and no formal assessment protocol.
+
+A reasonable authority, faced with this evidence, could not have concluded that the Claimant lacks "serious capacity" for housing decisions. The decision is Wednesbury unreasonable.
+
+________________________________________
+
+PART 5: RELIEF SOUGHT
+
+The Claimant seeks the following relief:
+
+(1) A quashing order quashing the Defendant's decision dated 22 August 2025 (Ref: 1083077) that no homeless application can be taken due to alleged lack of mental capacity.
+
+(2) A mandatory order requiring the Defendant to:
+(a) Accept the Claimant's homelessness application under Part VII of the Housing Act 1996;
+(b) Conduct a fresh, lawful capacity assessment by an independent, neurodiversity-affirming professional;
+(c) Consider the Claimant's full evidence of capacity, including educational, technical, and independent living achievements;
+(d) Make reasonable adjustments for the Claimant's neurodivergent conditions in all future assessments and interactions.
+
+(3) A declaration that the Defendant's decision was unlawful, procedurally unfair, and discriminatory.
+
+(4) Costs.
+
+________________________________________
+
+PART 6: STATEMENT OF FACTS
+
+The Claimant is a 25-year-old care leaver with diagnosed Autism Spectrum Disorder and ADHD. He was in the care of the local authority as a child and was admitted to Ellingham Hospital in Norfolk between 2016 and 2017 (ages 15-16).
+
+In 2018, the Claimant moved to Kent and successfully managed independent living from age 18. He completed a Bachelor's degree and secured admission to Imperial College London for Master's studies.
+
+On 30 December 2024, the Claimant approached Thurrock Council seeking housing assistance. On 20 May 2025, the Defendant issued a Section 184 "Not Homeless" decision. On 22 August 2025, the Defendant withdrew this decision and replaced it with the "No Homeless Application Taken" decision, alleging lack of mental capacity.
+
+The Claimant has been unable to secure independent legal representation due to his status as a vulnerable care leaver with limited financial resources (Universal Credit £232/month, PIP £732/month). He has pursued internal appeals, subject access requests, and pre-action protocol correspondence without legal assistance.
+
+The Claimant was moved between supported living placements (Thurrock to Redbridge) without continuity of support, disrupting his ability to access legal advice and maintain consistent advocacy.
+
+The Claimant's attempts at self-advocacy — including his technical work, educational pursuits, and insistence on independent living — have been systematically used by the Defendant as evidence of incapacity or "lack of insight," creating a catch-22 where his strengths are weaponised against him.
+
+________________________________________
+
+PART 7: OUT-OF-TIME APPLICATION
+
+The Claimant applies for permission to bring this claim out of time.
+
+The time limit for judicial review is 3 months from the date of the decision (CPR 54.5). The decision was made on 22 August 2025. The Claimant is bringing this claim approximately 11 months out of time.
+
+The Claimant respectfully submits that there is good reason for the delay:
+
+(1) VULNERABILITY AND LACK OF CAPACITY TO INSTRUCT SOLICITORS: The Claimant was a vulnerable care leaver with diagnosed disabilities, placed in supported living, and declared lacking capacity by the very authority he needed to challenge. This declaration created a systemic barrier to accessing legal advice, as solicitors were reluctant to act for a person formally declared lacking capacity.
+
+(2) PURSUIT OF INTERNAL REMEDIES: The Claimant pursued internal appeals, subject access requests, and pre-action protocol correspondence from September 2025 to June 2026, believing (reasonably) that the Defendant would correct its unlawful decision. The Defendant failed to do so.
+
+(3) DISRUPTION OF PLACEMENTS: The Claimant was moved between supported living placements (from 15 Evesham Way, Ilford, to 4 Raymond Road, Ilford) without continuity of support. This disrupted his ability to maintain consistent legal advocacy and access to resources.
+
+(4) LACK OF LEGAL REPRESENTATION: The Claimant has been unable to secure legal aid or pro bono representation due to his complex circumstances, limited financial resources, and the Defendant's capacity declaration, which deterred legal professionals from acting.
+
+(5) CATCH-22 OF SELF-ADVOCACY: The Claimant's attempts to advocate for himself — including his technical work, educational achievements, and insistence on his rights — were used by the Defendant as evidence of "lack of insight" and incapacity. This created a perverse incentive where the Claimant's strengths were weaponised against him, discouraging further self-advocacy and delaying formal legal action.
+
+(6) NO PREJUDICE TO THE DEFENDANT: The delay has caused no prejudice to the Defendant. The Defendant has not relied on the delay to its detriment. The facts and evidence remain unchanged. The Claimant's circumstances (lack of secure housing, vulnerability) remain urgent.
+
+The Claimant submits that the overriding objective (CPR 1.1) and the interests of justice require that this claim be permitted to proceed out of time. The Defendant's decision is fundamentally unlawful, and denying the Claimant access to justice would compound the injustice he has already suffered.
+
+________________________________________
+
+PART 8: LEGAL BASIS
+
+The Claimant relies on the following legal provisions and authorities:
+
+(1) Housing Act 1996, Part VII
+(2) Mental Capacity Act 2005, Sections 1-3
+(3) Equality Act 2010, Sections 6, 13, 149
+(4) Human Rights Act 1998, Articles 6, 8, 14
+(5) R v Tower Hamlets LBC ex p Ferdous Begum [1993] AC 509
+(6) WB v W District Council [2018] EWCA Civ 928
+(7) R (on the application of) v Local Authority [2011] EWHC 982 (Admin)
+(8) Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223
+(9) CPR Part 54 (Judicial Review)
+
+________________________________________
+
+PART 9: STATEMENT OF TRUTH
+
+I believe that the facts stated in this claim form are true. I understand that proceedings for contempt of court may be brought against anyone who makes, or causes to be made, a false statement in a document verified by a statement of truth.
+
+Signed: _________________________
+Nnamdi Michael Okpala
+Date: 19 July 2026
+
+________________________________________
+
+PART 10: DOCUMENTS TO BE ATTACHED
+
+(1) Copy of the Defendant's decision letter dated 22 August 2025 (Ref: 1083077)
+(2) Copy of the Claimant's pre-action protocol letter dated 15 September 2025
+(3) Copy of the Claimant's Section 202 review request dated [date]
+(4) Copy of the Claimant's Help with Fees application (HWF-843-211)
+(5) Evidence of educational achievements (Bachelor's degree certificate, Imperial College admission letter, British Mensa membership)
+(6) Evidence of independent living history (Independent Living Certificate, Kent accommodation records)
+(7) Evidence of benefits (Universal Credit, PIP award letters)
+(8) Evidence of neurodivergent conditions (diagnostic reports for Autism, ADHD)
+(9) Evidence of care leaver status (looked-after child records)
+(10) Evidence of technical work (GitHub repository summaries, technical documentation)
+(11) Evidence of placement disruption (correspondence regarding moves between supported living)
+
+________________________________________
